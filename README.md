@@ -1,124 +1,117 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Dhanusvarshini%20K&fontSize=46&fontColor=D4AF37&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Builder%20of%20End-to-End%20Products&descAlignY=58&descSize=17&descColor=EDEDED&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B1120,100:111827&height=200&section=header&text=Dhanusvarshini%20K&fontSize=44&fontColor=D4AF37&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Backend%20Enthusiast%20%E2%80%A2%20Hackathon%20Builder&descAlignY=54&descSize=15&descColor=CBD5E1&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&pause=1200&color=D4AF37&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dhanusvarshini;React+%2B+Node.js+%2B+FastAPI+%2B+Firebase;Ships+full-stack+products%2C+not+just+demos;Currently+sharpening+DSA+%26+System+Design" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=17&pause=1400&color=D4AF37&center=true&vCenter=true&width=560&lines=Full-Stack+Developer;Backend+Enthusiast;Hackathon+Builder;React+%E2%80%A2+MERN+%E2%80%A2+FastAPI;Building+Software+That+Solves+Real+Problems" alt="Typing SVG"/>
 
 <br/>
 
-[![Email](https://img.shields.io/badge/EMAIL-0B1220?style=flat-square&logo=gmail&logoColor=D4AF37&labelColor=0B1220)](mailto:dhanusvarshini@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-0B1220?style=flat-square&logo=github&logoColor=D4AF37&labelColor=0B1220)](https://github.com/dhanusvarshini-ui)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0B1220?style=flat-square&logo=linkedin&logoColor=D4AF37&labelColor=0B1220)](https://linkedin.com/in/dhanusvarshini)
-[![Profile Views](https://komarev.com/ghpvc/?username=dhanusvarshini-ui&style=flat-square&color=D4AF37&labelColor=0B1220&label=PROFILE+VIEWS)](https://github.com/dhanusvarshini-ui)
+<a href="mailto:dhanusvarshini@gmail.com"><img src="https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=D4AF37" /></a>
+<a href="https://github.com/dhanusvarshini-ui"><img src="https://img.shields.io/badge/GitHub-0B1120?style=for-the-badge&logo=github&logoColor=D4AF37" /></a>
+<a href="https://linkedin.com/in/dhanusvarshini"><img src="https://img.shields.io/badge/LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=D4AF37" /></a>
 
 </div>
 
 <br/>
 
-### ✦ About
+## About
 
-> EEE by degree, full-stack developer by choice. I'd rather ship an app with real auth, a real database, and a live API than another tutorial clone — and I hackathon on weekends for fun, not just for the certificate.
+I build production-ready full-stack applications that solve real problems — from backend architecture in Node.js and FastAPI to responsive React frontends. My focus is on writing systems that scale cleanly, not just code that works once. Outside of shipped projects, I compete in hackathons, work through DSA consistently, and treat every build as practice for how real engineering teams operate.
 
-📍 Chennai, Tamil Nadu, India &nbsp;·&nbsp; 🎓 B.E. EEE @ SSN College of Engineering &nbsp;·&nbsp; 📚 B.S. Data Science @ IIT Madras
-
-<br/>
-
-### ✦ Right now
-
-- 🔭 Building full-stack projects that solve problems on my own campus first
-- 🌱 Sharpening DSA and system-design fundamentals
-- 🤝 Open to collaborating on React / Node / FastAPI projects
-- 💬 Ask me about MERN architecture, REST API design, or hackathon war stories
-- ⚡ Fun fact — my last three projects each had a live leaderboard, dashboard, or price feed. I like things that move in real time.
+Chennai, Tamil Nadu, India &nbsp;—&nbsp; B.E. Electrical and Electronics Engineering, SSN College of Engineering &nbsp;—&nbsp; B.S. Data Science and Applications, IIT Madras
 
 <br/>
 
-### ✦ Experience
+## Current focus
 
-**Web Development Intern**, Nokia Solutions and Networks India Pvt. Ltd. — *Dec 2025, Chennai*
-
-Built and enhanced **MergeX**, a web app for merging and arranging multiple Excel files — end-to-end file upload, backend processing, and formatted output. Also contributed to a hardware-adjacent build on **ESD wristband detection using Raspberry Pi** alongside the web workstream. One month, full commitment, cross-functional exposure.
-
-<br/>
-
-### ✦ Tech Stack
-
-<div align="center">
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=js,python,java,cpp,html,css&theme=dark" />
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,vite&theme=dark" />
-
-**Backend & Data**
-<br/>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,firebase,postgres,mongodb,sqlite&theme=dark" />
-
-**Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" />
-
-</div>
+<table>
+<tr><td width="28px" valign="top"><b>01</b></td><td>Building production-ready full-stack applications</td></tr>
+<tr><td valign="top"><b>02</b></td><td>Solving DSA consistently</td></tr>
+<tr><td valign="top"><b>03</b></td><td>Learning scalable backend architecture</td></tr>
+<tr><td valign="top"><b>04</b></td><td>Preparing for Software Engineering roles</td></tr>
+<tr><td valign="top"><b>05</b></td><td>Contributing to meaningful software</td></tr>
+</table>
 
 <br/>
 
-### ✦ Featured Work
+## Experience
+
+**Web Development Intern** — Nokia Solutions and Networks India Pvt. Ltd.
+<br/>
+<sub>December 2025 · Chennai, India</sub>
+
+Engineered **MergeX**, an internal tool for merging and restructuring multi-sheet Excel workbooks — paired a React frontend with a FastAPI backend and Pandas for data processing, and designed the file upload pipeline, backend processing logic, and formatted export output end to end. Also contributed to a parallel hardware initiative on ESD wristband detection using Raspberry Pi, working across both software and embedded systems over the course of the internship.
+
+<br/>
+
+## Featured projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
+<h3>AgriConnect</h3>
 
-**🌾 AgriConnect — Encender Build**
+Full-stack farmer-to-consumer marketplace with role-based authentication for farmers and consumers. Extended with AI-assisted product listings (Groq), live government mandi price sync to protect farmers from underpricing, and Tamil-to-English translation for accessibility. Originally built for Lithos 2K26, where it won first place, then rebuilt further for Encender.
+
 <br/>
-<sub>React · FastAPI · Firebase</sub>
 
-Farmer-to-consumer marketplace with AI-assisted listings (LangChain + Groq), live government mandi price sync, and Tamil→English translation for accessibility.
+![React](https://img.shields.io/badge/React-0B1120?style=flat-square&logo=react&logoColor=D4AF37)
+![FastAPI](https://img.shields.io/badge/FastAPI-0B1120?style=flat-square&logo=fastapi&logoColor=D4AF37)
+![Firebase](https://img.shields.io/badge/Firebase-0B1120?style=flat-square&logo=firebase&logoColor=D4AF37)
+![Groq](https://img.shields.io/badge/Groq_AI-0B1120?style=flat-square&logoColor=D4AF37)
 
-[View repo ↗](https://github.com/dhanusvarshini-ui/Agri_connect-)
+<br/><br/>
+
+<a href="https://github.com/dhanusvarshini-ui/Agri_connect-"><img src="https://img.shields.io/badge/Repository-D4AF37?style=for-the-badge&logo=github&logoColor=0B1120" /></a>
 
 </td>
 <td width="50%" valign="top">
+<h3>Now||Never</h3>
 
-**🌱 AgriConnect — Lithos Build** 🏆
+Managed marketplace platform for campus hostel utility services at fixed rates. Three-tier role-based authentication across Students, Managers, and Employees, with a full booking system and JWT-secured sessions on a MongoDB data layer.
+
 <br/>
-<sub>React · FastAPI</sub>
 
-The original build — dual-role auth, role-protected dashboards, crop lifecycle tracking, pest alerts, PostgreSQL data layer. Won **Lithos 2K26** at CIT, Chennai.
+![MERN](https://img.shields.io/badge/MERN_Stack-0B1120?style=flat-square&logo=mongodb&logoColor=D4AF37)
+![JWT](https://img.shields.io/badge/JWT-0B1120?style=flat-square&logo=jsonwebtokens&logoColor=D4AF37)
+![MongoDB](https://img.shields.io/badge/MongoDB-0B1120?style=flat-square&logo=mongodb&logoColor=D4AF37)
 
-*(link repo here)*
+<br/><br/><br/>
+
+<a href="https://github.com/dhanusvarshini-ui/Now-Never"><img src="https://img.shields.io/badge/Repository-D4AF37?style=for-the-badge&logo=github&logoColor=0B1120" /></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+<h3>TypeRush</h3>
 
-**🏨 Now\|\|Never**
+Real-time typing speed website inspired by 10FastFingers. Calculates live WPM and accuracy statistics against a countdown timer, with a persistent MongoDB-backed leaderboard.
+
 <br/>
-<sub>MERN Stack</sub>
 
-Managed marketplace for campus hostel utility services. Three-tier role-based dashboards, JWT + bcrypt security, Mongoose-modeled booking assignments.
+![MERN](https://img.shields.io/badge/MERN_Stack-0B1120?style=flat-square&logo=react&logoColor=D4AF37)
+![MongoDB](https://img.shields.io/badge/MongoDB-0B1120?style=flat-square&logo=mongodb&logoColor=D4AF37)
 
-[View repo ↗](https://github.com/dhanusvarshini-ui/Now-Never)
+<br/><br/><br/>
+
+<a href="https://github.com/dhanusvarshini-ui/TypeRush"><img src="https://img.shields.io/badge/Repository-D4AF37?style=for-the-badge&logo=github&logoColor=0B1120" /></a>
 
 </td>
 <td width="50%" valign="top">
+<h3>MergeX</h3>
 
-**⌨️ TypeRush**
+Excel automation tool built during the Nokia internship — merges and restructures multi-sheet workbooks through a React interface backed by a FastAPI and Pandas processing pipeline.
+
 <br/>
-<sub>MERN Stack</sub>
 
-Real-time typing speed test inspired by 10FastFingers — live WPM/accuracy, countdown timer, persistent MongoDB leaderboard.
+![React](https://img.shields.io/badge/React-0B1120?style=flat-square&logo=react&logoColor=D4AF37)
+![FastAPI](https://img.shields.io/badge/FastAPI-0B1120?style=flat-square&logo=fastapi&logoColor=D4AF37)
+![Pandas](https://img.shields.io/badge/Pandas-0B1120?style=flat-square&logo=pandas&logoColor=D4AF37)
 
-[View repo ↗](https://github.com/dhanusvarshini-ui/TypeRush)
+<br/><br/><br/>
 
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
+<img src="https://img.shields.io/badge/Internal_Nokia_Project-CBD5E1?style=for-the-badge&logo=github&logoColor=111827" />
 
 </td>
 </tr>
@@ -126,59 +119,119 @@ Real-time typing speed test inspired by 10FastFingers — live WPM/accuracy, cou
 
 <br/>
 
-### ✦ Achievements
+## Tech stack
 
-🥇 **Lithos 2K26 Hackathon** — Winner, CIT Chennai &nbsp;|&nbsp; 🎖️ **Encender** — Finalist, SSNCE
+<div align="center">
+
+<sub><b>LANGUAGES</b></sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css&theme=dark" />
+
+<br/><br/>
+
+<sub><b>FRONTEND</b></sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=react,vite&theme=dark" />
+
+<br/><br/>
+
+<sub><b>BACKEND</b></sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" />
+
+<br/><br/>
+
+<sub><b>DATABASE</b></sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,sqlite&theme=dark" />
+
+<br/><br/>
+
+<sub><b>TOOLS</b></sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+</div>
 
 <br/>
 
-### ✦ Education
+## Achievements
+
+<table>
+<tr><td width="28px" valign="top">—</td><td><b>Lithos 2K26 Hackathon</b> — Winner, CIT Chennai</td></tr>
+<tr><td valign="top">—</td><td><b>Encender</b> — Finalist, SSNCE</td></tr>
+<tr><td valign="top">—</td><td><b>Web Development Intern</b>, Nokia Solutions and Networks India Pvt. Ltd.</td></tr>
+<tr><td valign="top">—</td><td><b>B.S. Data Science and Applications</b>, IIT Madras <i>(ongoing)</i></td></tr>
+</table>
+
+<br/>
+
+## Education
 
 | Institution | Program | Score | Timeline |
 |:--|:--|:--:|:--:|
-| SSN College of Engineering, Chennai | B.E. Electrical & Electronics Engineering | 7.88 / 10 | 2023 – Present |
+| SSN College of Engineering, Chennai | B.E. Electrical and Electronics Engineering | 7.88 / 10 | 2023 – Present |
 | Indian Institute of Technology Madras | B.S. Data Science and Applications *(ongoing)* | — | 2023 – Present |
 | Presidency PU College, Bengaluru | 12th Grade | 92% | 2022 – 2023 |
 
 <br/>
 
-### ✦ Certifications
+## Certifications
 
-- NPTEL (IIT Kanpur) Elite — *Fuzzy Sets, Logic and Systems & Applications*, 85%, Jan–Apr 2025
-- NPTEL — *Industrial IoT 4.0*
-- Infosys Springboard — *HTML5*, *CSS3*, *Time Management*
-
-<br/>
-
-### ✦ Leadership
-
-🎬 Event Management Head, SSN Film Club &nbsp;|&nbsp; 🤖 Event Management Head, IEEE RAS
+<table>
+<tr><td width="28px" valign="top">—</td><td>NPTEL (IIT Kanpur) Elite — <i>Fuzzy Sets, Logic and Systems &amp; Applications</i>, 85%, Jan–Apr 2025</td></tr>
+<tr><td valign="top">—</td><td>NPTEL — <i>Industrial IoT 4.0</i></td></tr>
+<tr><td valign="top">—</td><td>Infosys Springboard — <i>HTML5</i>, <i>CSS3</i></td></tr>
+</table>
 
 <br/>
 
-### ✦ GitHub Stats
+## Leadership
+
+<table>
+<tr><td width="28px" valign="top">—</td><td>Event Management Head, <b>IEEE RAS</b></td></tr>
+<tr><td valign="top">—</td><td>Event Management Head, <b>SSN Film Club</b></td></tr>
+</table>
+
+<br/>
+
+## GitHub analytics
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dhanusvarshini-ui&show_icons=true&theme=great-gatsby&hide_border=true&title_color=D4AF37&icon_color=D4AF37" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanusvarshini-ui&layout=compact&theme=great-gatsby&hide_border=true&title_color=D4AF37" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dhanusvarshini-ui&show_icons=true&hide_border=true&bg_color=0B1120&title_color=D4AF37&icon_color=D4AF37&text_color=CBD5E1" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanusvarshini-ui&layout=compact&hide_border=true&bg_color=0B1120&title_color=D4AF37&text_color=CBD5E1" />
+
 <br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=dhanusvarshini-ui&theme=great-gatsby&hide_border=true" alt="GitHub Streak"/>
+
+<img src="https://streak-stats.demolab.com/?user=dhanusvarshini-ui&hide_border=true&background=0B1120&border=0B1120&stroke=0B1120&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=CBD5E1&dates=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="GitHub streak"/>
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dhanusvarshini-ui&bg_color=0B1120&color=D4AF37&line=D4AF37&point=F8D775&area=true&area_color=D4AF37&hide_border=true" alt="Contribution graph"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=dhanusvarshini-ui&theme=onedark&no-frame=true&no-bg=true&row=2&column=4&margin-w=10&margin-h=10" alt="GitHub trophies"/>
+
 </div>
 
 <br/>
 
 <div align="center">
 
-### ✦ Contact
+## Contact
 
-[![Email](https://img.shields.io/badge/dhanusvarshini%40gmail.com-0B1220?style=flat-square&logo=gmail&logoColor=D4AF37&labelColor=0B1220)](mailto:dhanusvarshini@gmail.com)
-[![GitHub](https://img.shields.io/badge/dhanusvarshini--ui-0B1220?style=flat-square&logo=github&logoColor=D4AF37&labelColor=0B1220)](https://github.com/dhanusvarshini-ui)
-[![LinkedIn](https://img.shields.io/badge/dhanusvarshini-0B1220?style=flat-square&logo=linkedin&logoColor=D4AF37&labelColor=0B1220)](https://linkedin.com/in/dhanusvarshini)
+<a href="mailto:dhanusvarshini@gmail.com"><img src="https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=D4AF37" /></a>
+<a href="https://github.com/dhanusvarshini-ui"><img src="https://img.shields.io/badge/GitHub-0B1120?style=for-the-badge&logo=github&logoColor=D4AF37" /></a>
+<a href="https://linkedin.com/in/dhanusvarshini"><img src="https://img.shields.io/badge/LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=D4AF37" /></a>
 
-<sub><i>Still learning, still building — one commit at a time.</i></sub>
-<br/>
-<sub>⚡ Open to Software Engineer / Full-Stack Developer roles — Chennai, remote or on-site.</sub>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
+<sub>Open to Software Engineer and Full-Stack Developer roles — Chennai, remote or on-site.</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:111827,100:0B1120&height=100&section=footer" width="100%"/>
 
 </div>
