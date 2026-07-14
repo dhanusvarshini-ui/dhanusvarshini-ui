@@ -35,13 +35,14 @@ Currently focusing on:
 
 # 🚀 Featured Projects
 
-<table>
+# 🚀 Featured Projects
 
+<table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🌾 AgriConnect
+## 🚀 AgriConnect
 
 AI-powered farmer marketplace connecting farmers and consumers.
 
@@ -50,6 +51,8 @@ AI-powered farmer marketplace connecting farmers and consumers.
 ✨ Tamil → English Translation  
 ✨ Secure Authentication
 
+<br>
+
 **Tech**
 
 React • FastAPI • Firebase • Groq AI
@@ -57,24 +60,23 @@ React • FastAPI • Firebase • Groq AI
 <br>
 
 <a href="https://github.com/dhanusvarshini-ui/Agri_connect-">
-<img src="https://img.shields.io/badge/Repository-D4AF37?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/<img src="https://img.shields.io/badge/View%20Repository-D4AF37?style=for-the-badge&logo=github&logoColor=black"/>-D4AF37?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🚀 Now \|\| Never
+## 🚀 Now || Never
 
 Campus utility marketplace for hostel students.
 
-✨ Role-based Dashboards
-
-✨ Online Booking
-
-✨ Employee Assignment
-
+✨ Role-Based Dashboards  
+✨ Online Booking  
+✨ Employee Assignment  
 ✨ Secure JWT Authentication
+
+<br>
 
 **Tech**
 
@@ -83,7 +85,7 @@ MERN • JWT • MongoDB
 <br>
 
 <a href="https://github.com/dhanusvarshini-ui/Now-Never">
-<img src="https://img.shields.io/badge/Repository-D4AF37?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/<img src="https://img.shields.io/badge/View%20Repository-D4AF37?style=for-the-badge&logo=github&logoColor=black"/>-D4AF37?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </td>
@@ -92,50 +94,59 @@ MERN • JWT • MongoDB
 
 <tr>
 
-<td>
+<td width="50%" valign="top">
 
-## ⌨️ TypeRush
+## 🚀 TypeRush
 
 Competitive typing platform inspired by Monkeytype.
 
-✨ Live WPM
-
-✨ Accuracy Tracking
-
-✨ Leaderboards
-
+✨ Live WPM  
+✨ Accuracy Tracking  
+✨ Leaderboards  
 ✨ Timed Challenges
+
+<br>
 
 **Tech**
 
 React • Node.js • MongoDB
 
+<br>
+
+<a href="https://github.com/dhanusvarshini-ui/TypeRush">
+<img src="https://img.shields.io/badge/<img src="https://img.shields.io/badge/View%20Repository-D4AF37?style=for-the-badge&logo=github&logoColor=black"/>-D4AF37?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
 </td>
 
-<td>
+<td width="50%" valign="top">
 
-## 📊 MergeX
+## 🚀 MergeX
 
 Excel automation platform developed during my Nokia internship.
 
-✨ Workbook Merge
-
-✨ FastAPI Backend
-
-✨ React Frontend
-
+✨ Workbook Merge  
+✨ FastAPI Backend  
+✨ React Frontend  
 ✨ Pandas Automation
+
+<br>
 
 **Tech**
 
 React • FastAPI • Pandas
+
+<br>
+
+<a href="https://github.com/dhanusvarshini-ui/MergeX">
+<img src="https://img.shields.io/badge/<img src="https://img.shields.io/badge/View%20Repository-D4AF37?style=for-the-badge&logo=github&logoColor=black"/>-D4AF37?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
 
 </td>
 
 </tr>
 
 </table>
-
 ---
 
 # 💼 Experience
