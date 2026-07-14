@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:09090B,100:161B22&height=210&section=header&text=Dhanusvarshini%20K&fontSize=42&fontColor=E6C15A&fontAlignY=40&desc=Turning%20ideas%20into%20production-ready%20software.&descAlignY=60&descSize=16&descColor=CBD5E1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:09090B,100:161B22&height=150&section=header" width="100%"/>
 
-<p align="center">React &nbsp;•&nbsp; Node.js &nbsp;•&nbsp; FastAPI &nbsp;•&nbsp; MERN</p>
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=42&pause=2000&color=E6C15A&center=true&vCenter=true&width=560&height=60&lines=Dhanusvarshini+K" alt="Name"/>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=400&size=18&pause=1800&color=CBD5E1&center=true&vCenter=true&width=620&lines=Dream.+Build.+Achieve.;Building+software+that+people+actually+use.;React+%E2%80%A2+Node.js+%E2%80%A2+FastAPI+%E2%80%A2+MERN" alt="Tagline"/>
+
+<br/><br/>
 
 <a href="mailto:dhanusvarshini@gmail.com"><img src="https://img.shields.io/badge/Email-09090B?style=for-the-badge&logo=gmail&logoColor=E6C15A" /></a>
 <a href="https://github.com/dhanusvarshini-ui"><img src="https://img.shields.io/badge/GitHub-09090B?style=for-the-badge&logo=github&logoColor=E6C15A" /></a>
@@ -12,12 +14,13 @@
 
 </div>
 
-<br/><br/>
+<br/><br/><br/>
 
 <div align="center">
-<sub>01 &nbsp;·&nbsp; ABOUT ME</sub>
-<h2>I build software, not just interfaces.</h2>
+<h2>👋 About Me</h2>
 </div>
+
+<br/>
 
 I enjoy taking an idea from a whiteboard sketch to a production-ready application — the architecture decisions, the edge cases, the parts that never show up in a demo. Most of what I build lives across full-stack products and backend systems: React and MERN on the surface, FastAPI and Node.js underneath. I pick up new problems through hackathons, and I'm currently deepening my grip on DSA and system design so the things I build hold up at scale, not just for a sprint.
 
@@ -28,19 +31,21 @@ I enjoy taking an idea from a whiteboard sketch to a production-ready applicatio
 <br/>
 
 <div align="center">
-<sub><i>Right now: building Now || Never and TypeRush, and sharpening DSA in between.</i></sub>
+<sub><i>Right now: building Now || Never and TypeRush, and sharpening DSA and system design in between.</i></sub>
 </div>
 
-<br/>
+<br/><br/>
 <hr/>
+<br/><br/>
+
+<div align="center">
+<h2>🏆 Highlights</h2>
+</div>
+
 <br/>
 
 <div align="center">
-<sub>02 &nbsp;·&nbsp; HIGHLIGHTS</sub>
-<h2>A quick look at the record</h2>
-</div>
-
-<table width="100%">
+<table width="90%">
 <tr>
 <td width="25%" align="center">🏆<br/><b>Lithos 2K26</b><br/><sub>Hackathon Winner</sub></td>
 <td width="25%" align="center">💼<br/><b>Nokia Internship</b><br/><sub>Web Development</sub></td>
@@ -48,17 +53,20 @@ I enjoy taking an idea from a whiteboard sketch to a production-ready applicatio
 <td width="25%" align="center">⚡<br/><b>SSN College</b><br/><sub>B.E. EEE</sub></td>
 </tr>
 </table>
+</div>
 
-<br/>
+<br/><br/>
 <hr/>
+<br/><br/>
+
+<div align="center">
+<h2>🚀 Featured Projects</h2>
+</div>
+
 <br/>
 
 <div align="center">
-<sub>03 &nbsp;·&nbsp; FEATURED PROJECTS</sub>
-<h2>Work I'd point a recruiter to first</h2>
-</div>
-
-<table width="100%">
+<table width="90%">
 <tr>
 <td width="50%" valign="top">
 
@@ -116,27 +124,29 @@ A typing test that feels like a competition, not a chore — live WPM, real-time
 
 Built inside Nokia to solve a very unglamorous problem well: merging scattered multi-sheet Excel exports into one clean, usable file — automatically, every time, with no manual reformatting.
 
-![Internal](https://img.shields.io/badge/Internal_Project-CBD5E1?style=flat-square&logoColor=161B22)
+![Excel](https://img.shields.io/badge/Excel_Automation-161B22?style=flat-square&logoColor=E6C15A)
 ![FastAPI](https://img.shields.io/badge/FastAPI-161B22?style=flat-square&logo=fastapi&logoColor=E6C15A)
 ![React](https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=E6C15A)
 ![Pandas](https://img.shields.io/badge/Pandas-161B22?style=flat-square&logo=pandas&logoColor=E6C15A)
 
 <br/>
 
-<img src="https://img.shields.io/badge/Private_Repository-CBD5E1?style=for-the-badge&logoColor=161B22" />
+<a href="https://github.com/dhanusvarshini-ui/MergeX"><img src="https://img.shields.io/badge/Repository-E6C15A?style=for-the-badge&logo=github&logoColor=09090B" /></a>
 
 </td>
 </tr>
 </table>
+</div>
 
-<br/>
+<br/><br/>
 <hr/>
-<br/>
+<br/><br/>
 
 <div align="center">
-<sub>04 &nbsp;·&nbsp; EXPERIENCE</sub>
-<h2>Where I've put this into practice</h2>
+<h2>💼 Experience</h2>
 </div>
+
+<br/>
 
 **Web Development Intern**, Nokia Solutions and Networks India Pvt. Ltd.
 <br/>
@@ -146,14 +156,15 @@ Built inside Nokia to solve a very unglamorous problem well: merging scattered m
 - Designed the **file upload pipeline** end to end — upload handling, backend processing, and formatted export output.
 - Contributed to a parallel hardware initiative on **ESD wristband detection using Raspberry Pi**, working across software and embedded systems.
 
-<br/>
+<br/><br/>
 <hr/>
-<br/>
+<br/><br/>
 
 <div align="center">
-<sub>05 &nbsp;·&nbsp; TECH STACK</sub>
-<h2>Tools I reach for</h2>
+<h2>⚙️ Tech Stack</h2>
 </div>
+
+<br/>
 
 <div align="center">
 
@@ -187,14 +198,15 @@ Built inside Nokia to solve a very unglamorous problem well: merging scattered m
 
 </div>
 
-<br/>
+<br/><br/>
 <hr/>
-<br/>
+<br/><br/>
 
 <div align="center">
-<sub>06 &nbsp;·&nbsp; GITHUB ANALYTICS</sub>
-<h2>The commit history behind the claims</h2>
+<h2>📊 GitHub Analytics</h2>
 </div>
+
+<br/>
 
 <div align="center">
 
@@ -205,60 +217,74 @@ Built inside Nokia to solve a very unglamorous problem well: merging scattered m
 
 <img src="https://streak-stats.demolab.com/?user=dhanusvarshini-ui&hide_border=true&background=09090B&border=09090B&stroke=09090B&ring=E6C15A&fire=E6C15A&currStreakLabel=E6C15A&sideLabels=CBD5E1&dates=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="GitHub streak"/>
 
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dhanusvarshini-ui&bg_color=09090B&color=E6C15A&line=E6C15A&point=D4AF37&area=true&area_color=E6C15A&hide_border=true" alt="Contribution activity graph"/>
+
 </div>
 
-<br/>
+<br/><br/>
 <hr/>
+<br/><br/>
+
+<div align="center">
+<h2>🎓 Education</h2>
+</div>
+
 <br/>
 
 <div align="center">
-<sub>07 &nbsp;·&nbsp; EDUCATION</sub>
-<h2>Academic background</h2>
-</div>
-
-<table width="100%">
+<table width="90%">
 <tr><td width="40%"><b>SSN College of Engineering</b><br/><sub>Chennai</sub></td><td width="35%">B.E. Electrical and Electronics Engineering</td><td width="12%" align="center">7.88 / 10</td><td width="13%" align="center"><sub>2023 – Present</sub></td></tr>
 <tr><td width="40%"><b>Indian Institute of Technology Madras</b></td><td width="35%">B.S. Data Science and Applications <i>(ongoing)</i></td><td width="12%" align="center">—</td><td width="13%" align="center"><sub>2023 – Present</sub></td></tr>
 <tr><td width="40%"><b>Presidency PU College</b><br/><sub>Bengaluru</sub></td><td width="35%">12th Grade</td><td width="12%" align="center">92%</td><td width="13%" align="center"><sub>2022 – 2023</sub></td></tr>
 </table>
+</div>
 
-<br/>
+<br/><br/>
 <hr/>
+<br/><br/>
+
+<div align="center">
+<h2>📜 Certifications</h2>
+</div>
+
 <br/>
 
 <div align="center">
-<sub>08 &nbsp;·&nbsp; CERTIFICATIONS</sub>
-<h2>Continued learning</h2>
-</div>
-
-<table width="100%">
+<table width="90%">
 <tr><td width="6%">—</td><td>NPTEL (IIT Kanpur) Elite — <i>Fuzzy Sets, Logic and Systems &amp; Applications</i>, 85%, Jan–Apr 2025</td></tr>
 <tr><td width="6%">—</td><td>NPTEL — <i>Industrial IoT 4.0</i></td></tr>
 <tr><td width="6%">—</td><td>Infosys Springboard — <i>HTML5</i>, <i>CSS3</i></td></tr>
 </table>
+</div>
 
-<br/>
+<br/><br/>
 <hr/>
+<br/><br/>
+
+<div align="center">
+<h2>🤝 Leadership</h2>
+</div>
+
 <br/>
 
 <div align="center">
-<sub>09 &nbsp;·&nbsp; LEADERSHIP</sub>
-<h2>Outside the codebase</h2>
-</div>
-
-<table width="100%">
+<table width="90%">
 <tr><td width="6%">—</td><td>Event Management Head, <b>IEEE RAS</b></td></tr>
 <tr><td width="6%">—</td><td>Event Management Head, <b>SSN Film Club</b></td></tr>
 </table>
+</div>
 
-<br/>
+<br/><br/>
 <hr/>
-<br/>
+<br/><br/>
 
 <div align="center">
 
-<sub>10 &nbsp;·&nbsp; LET'S CONNECT</sub>
-<h2>Say hello</h2>
+<h2>📬 Let's Connect</h2>
+
+<br/>
 
 <a href="mailto:dhanusvarshini@gmail.com"><img src="https://img.shields.io/badge/Email-09090B?style=for-the-badge&logo=gmail&logoColor=E6C15A" /></a>
 <a href="https://github.com/dhanusvarshini-ui"><img src="https://img.shields.io/badge/GitHub-09090B?style=for-the-badge&logo=github&logoColor=E6C15A" /></a>
