@@ -22,17 +22,6 @@ Chennai, Tamil Nadu, India &nbsp;—&nbsp; B.E. Electrical and Electronics Engin
 
 <br/>
 
-## Current focus
-
-<table>
-<tr><td width="28px" valign="top"><b>01</b></td><td>Building production-ready full-stack applications</td></tr>
-<tr><td valign="top"><b>02</b></td><td>Solving DSA consistently</td></tr>
-<tr><td valign="top"><b>03</b></td><td>Learning scalable backend architecture</td></tr>
-<tr><td valign="top"><b>04</b></td><td>Preparing for Software Engineering roles</td></tr>
-<tr><td valign="top"><b>05</b></td><td>Contributing to meaningful software</td></tr>
-</table>
-
-<br/>
 
 ## Experience
 
