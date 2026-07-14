@@ -60,7 +60,7 @@ React • FastAPI • Firebase • Groq AI
 <br>
 
 <a href="https://github.com/dhanusvarshini-ui/Agri_connect-">
-<img src="https://img.shields.io/badge/<img src="https://img.shields.io/badge/View%20Repository-D4AF37?style=for-the-badge&logo=github&logoColor=black"/>-D4AF37?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/Repository-D4AF37?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </td>
@@ -85,7 +85,7 @@ MERN • JWT • MongoDB
 <br>
 
 <a href="https://github.com/dhanusvarshini-ui/Now-Never">
-<img src="https://img.shields.io/badge/<img src="https://img.shields.io/badge/View%20Repository-D4AF37?style=for-the-badge&logo=github&logoColor=black"/>-D4AF37?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/Repository-D4AF37?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </td>
@@ -114,7 +114,7 @@ React • Node.js • MongoDB
 <br>
 
 <a href="https://github.com/dhanusvarshini-ui/TypeRush">
-<img src="https://img.shields.io/badge/<img src="https://img.shields.io/badge/View%20Repository-D4AF37?style=for-the-badge&logo=github&logoColor=black"/>-D4AF37?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/Repository-D4AF37?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </td>
@@ -139,7 +139,7 @@ React • FastAPI • Pandas
 <br>
 
 <a href="https://github.com/dhanusvarshini-ui/MergeX">
-<img src="https://img.shields.io/badge/<img src="https://img.shields.io/badge/View%20Repository-D4AF37?style=for-the-badge&logo=github&logoColor=black"/>-D4AF37?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/Repository-D4AF37?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </td>
