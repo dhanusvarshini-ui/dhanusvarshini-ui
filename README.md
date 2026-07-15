@@ -2,28 +2,38 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,50:161B22,100:D4AF37&text=Dhanusvarshini%20K&fontColor=D4AF37&fontSize=48&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer&descAlignY=60&descColor=F8FAFC"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=D4AF37&center=true&vCenter=true&width=700&lines=Code.+Build.+Repeat.;Building+software+that+solves+real+problems.;React+%7C+Node.js+%7C+FastAPI+%7C+MongoDB;Always+learning.+Always+building."/>
+<br/>
+
+<h3>⚡ Full-Stack Developer · Software Engineer · Problem Solver</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=D4AF37&center=true&vCenter=true&width=750&lines=Code.+Build.+Repeat.;React+%7C+Node.js+%7C+FastAPI+%7C+MongoDB;Building+Software+That+Solves+Real+Problems" />
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/dhanusvarshini-krishnamoorthy-243021298/">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/dhanusvarshini-ui">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:dhanusvarshini@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<img src="https://img.shields.io/badge/CGPA-7.88%2F10-D4AF37?style=for-the-badge"/>
 
 <br/><br/>
 
-📍 Chennai, India &nbsp;•&nbsp; 🎓 SSN College of Engineering &nbsp;•&nbsp; 🎓 IIT Madras BS Data Science
+📍 Chennai, India &nbsp; • &nbsp; 🎓 SSN College of Engineering &nbsp; • &nbsp; 🎓 IIT Madras BS Data Science
 
 </div>
+
+<br/>
+
 ---
+
 
 # 👋 About Me
 
